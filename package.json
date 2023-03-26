@@ -6,6 +6,15 @@
   "engines": {
     "vscode": "^1.76.0"
   },
+  "icon": "images/icon.png",
+  "author": {
+    "name": "Alexandar Galaobv",
+    "email": "galabovalexandar@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/AGalabov/Darkrai",
+    "type": "git"
+  },
   "categories": [
     "Themes"
   ],
@@ -14,7 +23,7 @@
       {
         "label": "Darkrai",
         "uiTheme": "vs-dark",
-        "path": "./themes/Darkrai-color-theme.json"
+        "path": "./themes/darkrai-color-theme.json"
       }
     ]
   }

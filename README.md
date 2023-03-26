@@ -1,8 +1,8 @@
 # Darkrai
 
-Darkrai is a pitch black theme for VS Code.
+Darkrai is a pitch black theme for VS Code. Slightly inspired by a fan art of a Shiny Darkrai.
 
-<img src="example.png">
+<img src="images/example.png">
 
 ## Installing
 
